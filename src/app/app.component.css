@@ -1,0 +1,39 @@
+h1 {
+  color: #369;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 200%;
+}
+
+button {
+  background-color: #eee;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  color: black;
+  font-size: 1.2rem;
+  padding: 1rem;
+  margin: 1rem 1rem 1rem 0;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
+
+ul.hero-list {
+  list-style: none;
+}
+
+ul.hero-list li {
+  border: 1px solid #369;
+  border-radius: 5px;
+  width: 200px;
+  margin-bottom: 15px;
+}
+
+span.badge {
+  color: white;
+  background-color: #369;
+  padding: 0 1rem;
+  margin-right: 1rem;
+}
