@@ -1,4 +1,8 @@
-# WebWorkerDemo
+# Angular Web Workers Demo
+
+This is a demo application built for a write up on my blog: https://blog.ayco.io/web-workers-in-angular
+
+-----
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
