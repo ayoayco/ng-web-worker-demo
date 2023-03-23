@@ -1,4 +1,15 @@
-# WebWorkerDemo
+# Angular Web Workers Demo
+
+This is a demo application built for a write up on my blog: [How To Use Web Workers in an Angular Application](https://blog.ayco.io/web-workers-in-angular)
+
+## Screenshots
+
+| Sorted by ID | Sorted by Name |
+| --- | --- |
+| ![sorted by id](https://blog.ayco.io/assets/images/screenshots/web-workers-in-angular/05-sorted.png) | ![sorted by name](https://blog.ayco.io/assets/images/screenshots/web-workers-in-angular/06-sorted.png) | 
+
+
+-----
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.0.
 
