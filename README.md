@@ -1,6 +1,6 @@
 # Angular Web Workers Demo
 
-This is a demo application built for a write up on my blog: https://blog.ayco.io/web-workers-in-angular
+This is a demo application built for a write up on my blog: [How To Use Web Workers in an Angular Application](https://blog.ayco.io/web-workers-in-angular)
 
 ## Screenshots
 
